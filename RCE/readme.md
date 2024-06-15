@@ -1,4 +1,4 @@
-<h1>**Simple PHP RCE Webshells, upload this through FTP/Website and execute it.**</h1>
+<h1>Simple PHP RCE Webshells</h1>
 
 Resources: 
 Mime Types: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
