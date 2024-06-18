@@ -1,4 +1,4 @@
-<H2> TO RUN THIS SCRIPT, ALL YOU NEED TO DO THIS IS</H2>
+<H2> TO RUN THIS SCRIPT, ALL YOU NEED TO DO IS</H2>
 
 *Be On Windows* It hasn't been tested for Linux/Mac*
 ```
