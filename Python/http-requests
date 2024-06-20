@@ -1,0 +1,6 @@
+#simple HTTP req
+
+import requests
+
+req = requests.get("https://pornhub.com")
+print(req.text)
