@@ -1,3 +1,7 @@
-Google is one of the most used Search Engine. Therefore it's very powerful for recon, information gathering or even finding juicy files pretty easily.
+<h4>Search Engines are powerful as we can abuse it to find juicy files. It can also be used to find anything we can really think of...
+Credentials, Directories, Files. Anything!</h4>
 
-There are many files, many techniques to Google Dorking (also called Google Hacking).
+# Resources:
+
+<ul>https://www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet</ul>
+<ul>https://www.exploit-db.com/google-hacking-database</ul>
