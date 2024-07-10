@@ -1,0 +1,26 @@
+#Thanks to @flexnds.
+#https://www.blackhatworld.com/seo/unprotected-webcams-i-had-no-ideas-these-existed.589633/
+
+allintitle: "Network Camera NetworkCamera" Network cameras
+intitle:Axis 2400 video server Mostly security cameras, car parks, colleges, clubs, bars, etc.
+intitle:axis intitle:"video server" Mostly security cameras, car parks, colleges, bars, ski slopes etc.<
+intitle:"EvoCam" inurl:"webcam.html" Mostly European security cameras
+intitle:"Live NetSnap Cam-Server feed" Network cameras, private and non private web cameras
+intitle:"Live View / - AXIS" Mostly security cameras, car parks, colleges etc.
+intitle:"LiveView / - AXIS" | inurl:view/view.shtml Mostly security cameras, car parks, colleges etc.
+intitle:liveapplet Mostly security cameras, car parks, colleges, clubs, bars etc.
+intitle:snc-cs3 inurl:home/ Mostly security cameras, swimming pools and more etc.
+intitle:"snc-rz30 home" Mostly security cameras, shops, car parks
+intitle:snc-z20 inurl:home/ Mostly security cameras, swimming pools and more etc.
+intitle:"WJ-NT104 Main" Mostly security cameras, shops, car parks
+inurl:LvAppl intitle:liveapplet Mostly security cameras, car parks, colleges etc.
+inurl:indexFrame.shtml "Axis Video Server" Mostly security cameras, car parks, colleges etc.
+inurl:lvappl A huge list of webcams around the world, mostly security cameras, car parks, colleges etc.
+inurl:axis-cgi/jpg Mostly security cameras
+inurl:indexFrame.shtml Axis Mostly security cameras, car parks, colleges etc.
+inurl:"MultiCameraFrame?Mode=Motion" Mostly security cameras, pet shops, colleges etc.
+inurl:/view.shtml Mostly security cameras, car parks, colleges etc.
+inurl:/view/index.shtml Mostly security cameras, airports, car parks, back gardens, traffic cams etc.
+inurl:viewerframe?mode= Network cameras, mostly private webcams etc.
+inurl:"viewerframe?mode=motion" Network cameras
+inurl:ViewerFrame?Mode=Refresh Mostly security cameras, parks, bird tables etc.
