@@ -20,3 +20,5 @@ https://wikileaks.org/spyfiles3.html
 ---
 <li>To Install a Tor Browser, go there -> https://www.torproject.org/download/
 
+<h1>Resources:</h1>
+<li>https://anonymousplanet.org/guide.html</li>
