@@ -23,5 +23,6 @@ For example:
 ```stockAPI=http://fbi.com/admin/``` 
 Could get picked up and blocked!
 
-But if you try encoding(URL | HTML) some characters, it should allow you to bypass the filtering!
+But if you try encoding(URL) some characters, it should allow you to bypass the filtering!
+Or even double URL encode.
 ```stockAPI=http://fbi.com/%41dmin/```
